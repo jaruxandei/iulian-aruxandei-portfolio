@@ -24,7 +24,7 @@ const About = () => {
         <br/>
 
         <p className="text-l">
-        My goal is to transition from a full-time Tour Guide and Tour Leader to a career as a Front-End Developer in the near future. My passion for tourism and travel still exists; I'm not denying it. However, I believe my priorities are shifting - I want to travel more for myself and less for others.
+        My goal is to transition from a full-time Tour Guide and Tour Leader to a career as a Front-End Developer in the near future. My passion for tourism and travel still exists; I'm not denying it. However, I believe my priorities are shifting - I want to focus more on developing my career and travel a bit less.
         </p>
 
       </div>
