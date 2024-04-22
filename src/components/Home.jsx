@@ -9,7 +9,7 @@ const Home = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setJobTitle(prevJobTitle => {
-        return prevJobTitle === "a Full Time Tour Guide" ? "an Aspiring Front End Dev." : "a Full Time Tour Guide";
+        return prevJobTitle === "a Full Time Tour Guide" ? "an Aspiring Front-End Dev." : "a Full Time Tour Guide";
       });
     }, 3000);
 
