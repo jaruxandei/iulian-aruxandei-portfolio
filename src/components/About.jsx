@@ -11,7 +11,7 @@ const About = () => {
 
         </div>
 
-        <p className="text-l mt-20">
+        <p className="text-l">
         I have more than 5 years of experience in the tourism industry, where I have worked as a Travel Agent, Tour Guide, and Tour Leader. My career has been driven by my passion for travel and the opportunity to showcase Romania to others, and to explore other parts of the planet.
         </p>
 
@@ -24,7 +24,7 @@ const About = () => {
         <br/>
 
         <p className="text-l">
-        My goal is to transition from a full-time Tour Guide and Tour Leader to a career as a Front-End Developer in the near future. My passion for tourism and travel still exists; I'm not denying it. However, I believe my priorities are shifting - I want to focus more on developing my career and travel a bit less.
+        My goal is to transition from a full-time Tour Guide and Tour Leader to a career as a Front-End Developer in the near future. My passion for tourism and travel still exists; I'm not denying it. However, I believe my priorities are shifting - I want to focus more on developing my career and less on traveling.
         </p>
 
       </div>
